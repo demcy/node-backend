@@ -1,2 +1,2 @@
-npm install tedious --save
-npm install socket.io --save
+* npm install tedious --save
+* npm install socket.io --save
