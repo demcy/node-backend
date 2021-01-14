@@ -1,0 +1,16 @@
+{
+  "name": "node-backend",
+  "version": "1.0.0",
+  "description": "backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "demcy",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^3.0.5",
+    "tedious": "^9.2.3"
+  }
+}
